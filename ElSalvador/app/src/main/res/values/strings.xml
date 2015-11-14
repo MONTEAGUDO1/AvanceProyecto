@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">El Salvador</string>
+
+    <string name="title_INFO">INFORMACION</string>
+    <string name="title_section1">Ahuachapan</string>
+    <string name="title_section2">Santa Ana</string>
+    <string name="title_section3">Sonsonate</string>
+    <string name="title_section4">La Libertad</string>
+    <string name="title_section5">San Salvador</string>
+    <string name="title_section6">Cuscatlan</string>
+    <string name="title_section7">Chalatenango</string>
+    <string name="title_section8">La Paz</string>
+    <string name="title_section9">Cabañas</string>
+    <string name="title_section10">San Vicente</string>
+    <string name="title_section11">Usulutan</string>
+    <string name="title_section12">San Miguel</string>
+    <string name="title_section13">Morazán</string>
+    <string name="title_section14">La Unión</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Presionar</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bienvenida">Bienvenida</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
