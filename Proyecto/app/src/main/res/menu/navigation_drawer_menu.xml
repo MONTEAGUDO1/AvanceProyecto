@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/item_navigation_drawer_el_salvador"
+            android:icon="@drawable/ic_inbox_black_24dp"
+            android:title="El Salvador" />
+        <item
+            android:id="@+id/item_navigation_drawer_ahuachapan"
+            android:icon="@drawable/ic_action_toggle_star"
+            android:title="Ahuachapan" />
+        <item
+            android:id="@+id/item_navigation_drawer_santa_ana"
+            android:icon="@drawable/ic_action_content_send"
+            android:title="Santa Ana" />
+        <item
+            android:id="@+id/item_navigation_drawer_sonsonate"
+            android:icon="@drawable/ic_action_content_drafts"
+            android:title="Sonsonate" />
+    </group>
+
+    <item android:title="Más opciones">
+        <menu>
+            <item
+                android:id="@+id/item_navigation_drawer_opciones"
+                android:icon="@drawable/ic_action_content_mail"
+                android:title="Opciones" />
+            <item
+                android:id="@+id/item_navigation_drawer_ayuda"
+                android:icon="@drawable/ic_action_action_delete"
+                android:title="Ayuda" />
+        </menu>
+    </item>
+
+</menu>
